@@ -1,0 +1,28 @@
+features of python
+
+Easy to Learn
+Python is extremely easy to get started with. Python has an extraordinarily simple syntax.
+
+Free and Open Source
+ Python is an example of a FLOSS (Free/Libre and Open Source Software). In simple terms, you can freely distribute copies of this software. 
+
+High-level Language
+When you write programs in Python, you never need to bother about low-level details such as managing the memory used by your program
+
+
+What problems has Python faced as a language and ecosystem
+
+Python is considered a weakly-typed or dynamically-typed programming language.
+
+What major software/applications are built on Python (name 3 not mentioned already)?
+DropBox
+Google
+Quora
+Instagram
+BitTorrent
+Spotify
+Reddit
+
+What relationship does it have with GIS (not mentioned already)?
+
+The main benefit to Python is the reduction of redundant behavior. For instance, doing multiple viewshed analyses would take some time if one were to only use the native platform of GRASS or QGIS. However, by integrating simple loops that process starting points and simple rules affecting the viewshed, many areas can be applied in a single process. Additionally, this now also opened up the possibility for many GIS users to create specific programs within their larger applications to enable batch runs, enable dynamic compiling, access a wide array of open source tools, easy memory allocation, and other utilities.
